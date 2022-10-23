@@ -1,0 +1,138 @@
+/* header style*/
+.bg-image-header {
+    display: flex;
+    justify-content: space-between;
+    margin-top; 27px
+    margin: 0 auto;
+}
+.navigation-flex {
+    display: flex;
+    justify-content: space-between;
+    width: 1088px;
+    margin: 0 auto;
+}
+.nav-ul {
+    display: flex;
+    vertical-align: middle;
+    margin-left: 27px;
+}
+.heder-wraper {
+    padding: 18px 0 17px 20px;
+}
+ .section1 {
+    margin-top: 20px;
+    
+ }
+    
+.container1 {
+    width: 1920;
+    height: 1187;
+    text-align: middle;
+    margin-right: 25px;
+    font-size: larger;
+    font: Lucida Console;
+    padding-top: 100px;    
+}
+.text-block {
+    width: 371px;
+    height: 374px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 200px;
+    margin-left: 800px; 
+    
+}
+.image-block2 {
+    position: absolute;
+}
+/* pseudo clases */
+.wraper-block {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden
+}
+.flex-child-box {
+    width: 371px;
+    height: 374px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.size {
+    margin-top: 25px;
+}
+.block {
+    width: 370px;
+    height: 451px;
+}
+.one {
+    width: 88px;
+    height: 88px;
+    background-color: #FBBA77;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two {
+    width: 88px;
+    height: 88px;
+    background-color: #41EAE3;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.three {
+    width: 88px;
+    height: 88px;
+    background-color: #69529F;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.four {
+    width: 88px;
+    height: 88px;
+    background-color: #4386D2;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.five {
+    width: 88px;
+    height: 88px;
+    background-color: #A5A2F6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.six {
+    width: 88px;
+    height: 88px;
+    background-color: #FF8088;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.size {
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.tex-block-child {
+    width: 300px;
+    tex-align: center;
+}
